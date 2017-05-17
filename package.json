@@ -1,6 +1,6 @@
 {
   "name": "bccguesswhat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test node npm setup",
   "main": "index.js",
   "bin": {
